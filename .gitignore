@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 todo_list/node_modules/
+react-redux-master/node_modules/
